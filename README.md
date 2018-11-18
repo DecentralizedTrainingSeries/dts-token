@@ -13,14 +13,15 @@ This is an ERC20 token created on the Erthereum blockchain.
 Purpose of the token
 --------
 
-This token is used for community building around the series of DTS Workshops co-organised by the University of Nicosia (Cyprus), Blockchain Initiative and the Centre for Research & Technology, Hellas (CERTH).
+This token is used for community building around the series of DTS Workshops co-organised by the University of Nicosia (Cyprus), Blockchain Initiative and the Informatics and Telematics Institute, Centre for Research & Technology, Hellas (ITI/CERTH).
 
 Thus, the token will be used within the community:
 
 	- for Voting Rights;
 	- for Various Promotional offers;
+	- for community building;
 	- as a medium of further experimentation from the community.
-
+	
 --------
 Details for the Smart Contract
 --------
