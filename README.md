@@ -23,6 +23,13 @@ Thus, the token will be used within the community:
 	- as a medium of further experimentation from the community.
 	
 --------
+Register for Airdrop
+--------
+
+Register here: https://bit.ly/2A1eI1K
+Deadline: 21/11/2018 @ 12:00am - (GMT+2 Time)
+
+--------
 Details for the Smart Contract
 --------
 
